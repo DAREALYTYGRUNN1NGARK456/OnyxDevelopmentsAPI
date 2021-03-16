@@ -16,7 +16,7 @@
 
 
 ---------------------
-[!()]()
-[!()]()
-<a href="https://www.patreon.com/bePatron?u=52323540" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+# SUPPORT US
+[!(https://api.darealytygrunn1.repl.co/img/22.jpg)](https://www.patreon.com/OnyxDevelopments)
+
 ---------------------
